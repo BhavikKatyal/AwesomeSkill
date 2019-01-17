@@ -1,0 +1,7 @@
+{
+  "utterance": "How I am",
+  "intent_type": "AwesomeIntent",
+  "intent": {
+    "AwesomeKeyword": "Awesome"
+  }
+}
